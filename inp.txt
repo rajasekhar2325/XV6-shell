@@ -1,0 +1,5 @@
+-----myfile.txt-----
+echo hello
+cat README
+echo hi ; cat README
+ps ; procinfo 1
